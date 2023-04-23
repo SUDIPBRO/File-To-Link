@@ -66,7 +66,7 @@ Press the below button to Fast deploy on Heroku
 💥User DC Check.<br>
 💥Real time CPU , RAM , Internet usage. <br>
 💥Custom Domain support. <br>
-💥All unwanted code removed. <br>
+💥All unwanted code remove. <br>
 💥A lot more tired of writing check out by deploying it. 
 </details>
 <details>
